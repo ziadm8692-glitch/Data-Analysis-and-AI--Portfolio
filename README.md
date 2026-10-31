@@ -93,7 +93,7 @@ An interactive **Executive Business Insights Dashboard** for a B2B SaaS business
 
 <!-- اسحب فيديو الـ screen recording هنا وانت بتعدل الـ README على GitHub -->
 
-![Dashboard Overview](images/overview.png)
+![Dashboard Overview](https://www.linkedin.com/posts/ziad-mostafa-691042378_powerbi-businessintelligence-dataanalytics-ugcPost-7521008391847337984-7_zN/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAGGMreUBS0fDILMyam5TsdnjMCdqIRjdtyk)
 
 ## 🎯 Business Questions
 
