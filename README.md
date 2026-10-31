@@ -82,3 +82,46 @@ This project presents a comprehensive Exploratory Data Analysis (EDA) and Machin
 1. Clone the repository:
    ```bash
    git clone [https://github.com/your-username/Netflix-EDA-Machine-Learning.git](https://github.com/your-username/Netflix-EDA-Machine-Learning.git)
+
+
+
+   # 🚀 SaaS Business Analytics Dashboard | Power BI
+
+An interactive **Executive Business Insights Dashboard** for a B2B SaaS business, built to turn raw subscription, billing, and support data into insights that support strategic decisions.
+
+## 🎥 Demo
+
+<!-- اسحب فيديو الـ screen recording هنا وانت بتعدل الـ README على GitHub -->
+
+![Dashboard Overview](images/overview.png)
+
+## 🎯 Business Questions
+
+- Is recurring revenue growing in a stable way?
+- How well are customers paying, and how much revenue is uncollectible?
+- Does support activity relate to customer churn?
+- Which industries are the least satisfied?
+- Are seats and licenses being used efficiently across plans?
+
+## 🔹 Key Insights
+
+### 📈 MRR & Revenue
+- MRR trends show **stable growth, approaching $980K**.
+- Overall **collection rate is 89.32%**, which highlights an opportunity to reduce uncollectible revenue.
+
+### 🎧 Customer Support & Satisfaction
+- Analyzed support ticket trends and their relationship with churn.
+- Identified industries with lower satisfaction scores to guide Customer Success improvements.
+
+### 💺 Seat Utilization
+- Measured license utilization across subscription plans.
+- Compared **Enterprise vs Starter** plans to understand adoption and resource usage.
+- Found opportunities to optimize seat allocation and improve operational efficiency.
+
+## 💡 Business Value
+
+Helps stakeholders monitor performance, track recurring revenue, improve retention strategies, optimize resource utilization, and make data-driven decisions.
+
+## 🛠️ Tools & Skills
+
+Power BI · Power Query · DAX · Data Modeling · KPI Design · Interactive Dashboards · Data Visualization
